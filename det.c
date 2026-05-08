@@ -90,17 +90,11 @@ double Det(matrix m) {
 }
 
 int main() {
-    int n = 4;
+    int n; scanf("%d", &n);
+    
     matrix m = initMatrix(n);
 
-    double mtx[4][4] = {
-        {0.0,  2.0,  3.0,  4.0},
-        {1.0,  0.0,  8.0,  3.0},
-        {2.0, -1.0,  0.0,  1.0},
-        {3.0,  1.0, -2.0,  0.0}
-    };
-
-    for (int i = 0; i < n; i++) for (int j = 0; j < n; j++) m.mtx[i][j] = mtx[i][j];
+    for (int i = 0; i < n; i++) for (int j = 0; j < n; j++) scanf("%lf", &m.mtx[i][j]);
 
     double determinant = Det(m);
     
