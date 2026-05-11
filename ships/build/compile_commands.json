@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/yolka/Documents/ships/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu17 -o CMakeFiles\\Ships.dir\\main.c.obj -c C:\\Users\\yolka\\Documents\\ships\\main.c",
+  "file": "C:/Users/yolka/Documents/ships/main.c",
+  "output": "CMakeFiles/Ships.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/yolka/Documents/ships/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu17 -o CMakeFiles\\Ships.dir\\src\\usefulMath\\usefulMath.c.obj -c C:\\Users\\yolka\\Documents\\ships\\src\\usefulMath\\usefulMath.c",
+  "file": "C:/Users/yolka/Documents/ships/src/usefulMath/usefulMath.c",
+  "output": "CMakeFiles/Ships.dir/src/usefulMath/usefulMath.c.obj"
+},
+{
+  "directory": "C:/Users/yolka/Documents/ships/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu17 -o CMakeFiles\\Ships.dir\\src\\lodepng\\lodepng.c.obj -c C:\\Users\\yolka\\Documents\\ships\\src\\lodepng\\lodepng.c",
+  "file": "C:/Users/yolka/Documents/ships/src/lodepng/lodepng.c",
+  "output": "CMakeFiles/Ships.dir/src/lodepng/lodepng.c.obj"
+},
+{
+  "directory": "C:/Users/yolka/Documents/ships/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu17 -o CMakeFiles\\Ships.dir\\src\\imageWork\\imageWork.c.obj -c C:\\Users\\yolka\\Documents\\ships\\src\\imageWork\\imageWork.c",
+  "file": "C:/Users/yolka/Documents/ships/src/imageWork/imageWork.c",
+  "output": "CMakeFiles/Ships.dir/src/imageWork/imageWork.c.obj"
+},
+{
+  "directory": "C:/Users/yolka/Documents/ships/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu17 -o CMakeFiles\\Ships.dir\\src\\structures\\structures.c.obj -c C:\\Users\\yolka\\Documents\\ships\\src\\structures\\structures.c",
+  "file": "C:/Users/yolka/Documents/ships/src/structures/structures.c",
+  "output": "CMakeFiles/Ships.dir/src/structures/structures.c.obj"
+}
+]

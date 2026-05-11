@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Ships.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Ships.dir/objects.a @CMakeFiles\Ships.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Ships.dir/objects.a -Wl,--no-whole-archive -o Ships.exe -Wl,--out-implib,libShips.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ships.dir\linkLibs.rsp

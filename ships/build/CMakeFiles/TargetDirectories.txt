@@ -1,0 +1,3 @@
+C:/Users/yolka/Documents/ships/build/CMakeFiles/Ships.dir
+C:/Users/yolka/Documents/ships/build/CMakeFiles/edit_cache.dir
+C:/Users/yolka/Documents/ships/build/CMakeFiles/rebuild_cache.dir
